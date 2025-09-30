@@ -1,5 +1,5 @@
 
-**Submission in NIPS 2025**
+**Submission in WWW 2026**
 
 ## Overview
 
