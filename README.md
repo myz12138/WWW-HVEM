@@ -1,5 +1,4 @@
 
-**Submission in WWW 2026**
 
 ## Overview
 
