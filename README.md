@@ -4,7 +4,7 @@
 
 we propose HVEM, a Hybrid Variational Expectation-Maximization framework for joint embedding-label optimization for TAGs. HVEM is designed as a dual-branch framework, with each branch comprising two components that focus on estimating embeddings and labels, respectively.
 
-![Architecture of HVEM](./method.png)
+![Architecture of HVEM](./Figure.png)
 
 ## Requirements
 
